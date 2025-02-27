@@ -22,3 +22,9 @@ I have expertise in
 - creating annotator pipelines based on expert-in-the-loop feedback
 - developing synthetic datasets with LLMs
 - Fine-tuning and evaluating LLMs on low-resource scenarios and tasks
+
+Non-research facts about Mollie
+------
+1. I am very good at baking.
+2. I am a life-long piano student.
+3. I love reading science fiction, especially books written by women and people of color (but also Dune)
