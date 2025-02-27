@@ -15,14 +15,14 @@ name                     : &name "Mollie Shichman"
 description              : &description "A Ph.D. Candidate in Natural Language Processing"
 url                      : https://mshich1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mshich1/mshich1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Mollie_Shichman_2.jpg"
   name             : "Mollie Shichman"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate in Computer Science, Research Assistant at Army Research Lab"
