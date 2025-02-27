@@ -4,7 +4,7 @@ collection: publications
 category: Conferences
 permalink: /publication/2023-Use-Defines-Possibilities
 excerpt: ''
-date: 2023-06
+date: 2023-06-24
 venue: 'the 15th International Conference on Computational Semantics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
