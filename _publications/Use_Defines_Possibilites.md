@@ -6,7 +6,7 @@ permalink: /publication/2023-Use-Defines-Possibilities
 excerpt: 'This paper demonstrates Masked Language Model performance in multiple choice questions about object affordances. We find the model performs strongly when the objects are farther apart in embedding space, and performance degrades the closer the objects are in embedding space.'
 date: 2023-06-24
 venue: 'the 15th International Conference on Computational Semantics'
-paperurl: 'http://academicpages.github.io/files/2023.iwcs-1.30.pdf'
+paperurl: 'http://mshich1.github.io/files/Use_Defines_Possibilities.pdf'
 citation: 'Mollie Shichman, Claire Bonial, Austin Blodgett, Taylor Hudson, Francis Ferraro, and Rachel Rudinger. 2023. &quot;Use Defines Possibilities: Reasoning about Object Function to Interpret and Execute Robot Instructions&quot;. In <i>Proceedings of the 15th International Conference on Computational Semantics</i>, pages 284–292, Nancy, France. Association for Computational Linguistics.'
 ---
 
