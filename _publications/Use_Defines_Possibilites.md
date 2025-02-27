@@ -3,7 +3,7 @@ title: "Use Defines Possibilities: Reasoning about Object Function to Interpret 
 collection: publications
 category: Conferences
 permalink: /publication/2023-Use-Defines-Possibilities
-excerpt: ''
+excerpt: 'This paper demonstrates Masked Language Model performance in multiple choice questions about object affordances. We find the model performs strongly when the objects are farther apart in embedding space, and performance degrades the closer the objects are in embedding space.'
 date: 2023-06-24
 venue: 'the 15th International Conference on Computational Semantics'
 paperurl: 'http://academicpages.github.io/files/2023.iwcs-1.30.pdf'
