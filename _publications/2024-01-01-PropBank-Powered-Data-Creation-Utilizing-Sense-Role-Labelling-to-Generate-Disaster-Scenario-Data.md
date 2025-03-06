@@ -1,10 +1,11 @@
 ---
 title: "PropBank-Powered Data Creation: Utilizing Sense-Role Labelling to Generate Disaster Scenario Data"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-01-01-PropBank-Powered-Data-Creation-Utilizing-Sense-Role-Labelling-to-Generate-Disaster-Scenario-Data
 date: 2024-01-01
 venue: 'Proceedings of the Fifth International Workshop on Designing Meaning Representations@ LREC-COLING 2024'
+paperurl: 'http://mshich1.github.io/files/ppdc.pdf
 citation: ' Mollie Shichman,  Claire Bonial,  Taylor Hudson,  Austin Blodgett,  Francis Ferraro,  Rachel Rudinger, &quot;PropBank-Powered Data Creation: Utilizing Sense-Role Labelling to Generate Disaster Scenario Data.&quot; Proceedings of the Fifth International Workshop on Designing Meaning Representations@ LREC-COLING 2024, 2024.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=PropBank+Powered+Data+Creation:+Utilizing+Sense+Role+Labelling+to+Generate+Disaster+Scenario+Data){:target="_blank"} for full citation
