@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/programming_languages
 venue: "University of Maryland, Computer Science Department"
-date: "Fall 2021 - Spring 2025"
+start_date: 8-31-2021
+end_date: 5-20-2025
 location: "College Park, MD"
 ---
 
