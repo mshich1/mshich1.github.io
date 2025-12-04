@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant, Programming Languages"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+[permalink: ](https://bakalian.cs.umd.edu/cmsc330/syllabus)
+venue: "University of Maryland, Computer Science Department"
+date: "Fall 2021 - Spring 2025"
+location: "College Park, MD"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Led student discussions about the week’s lectures
+* Tutored students in projects about Finite State Machines, Language Compilation,
+and Programming Language Eﬃciency
+* Tutored students in Ruby, Python, OCaml, and Rust, depending on the semester's syllabus
+* Developed, tested, and graded quizzes and exams, including multiple choice, short answer, and long answer questions
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
