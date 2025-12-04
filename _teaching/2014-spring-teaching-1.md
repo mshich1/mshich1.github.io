@@ -2,7 +2,7 @@
 title: "Teaching Assistant, Programming Languages"
 collection: teaching
 type: "Undergraduate course"
-[permalink: ](https://bakalian.cs.umd.edu/cmsc330/syllabus)
+permalink:[Current class page](https://bakalian.cs.umd.edu/cmsc330/syllabus)
 venue: "University of Maryland, Computer Science Department"
 date: "Fall 2021 - Spring 2025"
 location: "College Park, MD"
