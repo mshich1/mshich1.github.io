@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/programming_languages
 venue: "University of Maryland, Computer Science Department"
-date: 8-30-2021
+date: 2021-08-30
 location: "College Park, MD"
 ---
 ====
